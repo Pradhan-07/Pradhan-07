@@ -50,7 +50,7 @@ struct Karan {
 
 <div align="center">
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark&count_private=true&cache_seconds=21600)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradhan-07&theme=github-dark-blue&hide_border=true)
