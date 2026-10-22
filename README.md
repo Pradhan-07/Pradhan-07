@@ -1,50 +1,88 @@
-# Karan Kumar Pradhan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Karan%20Kumar%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%40%20VIT-AP%20%7C%20DSA%20in%20C%2B%2B%20%7C%20Web%20Developer&descAlignY=56&descSize=16" width="100%" alt="Karan Kumar Pradhan" />
 
-**B.Tech CSE @ VIT-AP University** · DSA in C++ · Web Developer · IoT tinkerer
+<div align="center">
 
-I build small, working things and finish them: a live portfolio, a growing C++ DSA library, Python gesture-control experiments, and an ESP32-based smart-irrigation system (AGRIFLOW) built with my Engineering Clinics team.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=560&height=45&center=true&vCenter=true&lines=B.Tech%20CSE%20%40%20VIT-AP;DSA%20in%20C%2B%2B%20%E2%80%A2%20Web%20Developer;Building%20AGRIFLOW%20%E2%80%94%20IoT%20Smart%20Irrigation;Open%20to%20internships%20%26%20collaborations)](https://github.com/Pradhan-07)
 
-- 🏅 Certified: Hedera Certified Foundation (HCF) & Hedera Certified Developer Associate (HCDA) — The Hashgraph Association
-- 🌱 Currently: solving DSA daily on LeetCode and sharpening C++
-- 🔭 Working on: AGRIFLOW — IoT smart irrigation & soil monitoring (ESP32)
-- 🌐 Portfolio: [karan07dev.vercel.app](https://karan07dev.vercel.app/)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/karan-pradhan-510062396/)
+![Profile views](https://komarev.com/ghpvc/?username=Pradhan-07&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Pradhan-07?label=Follow&style=social)](https://github.com/Pradhan-07?tab=followers)
 
----
+</div>
 
-### Tech I use
+## 👨‍💻 About me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+```cpp
+struct Karan {
+    std::string college   = "VIT-AP University";
+    std::string degree    = "B.Tech, Computer Science (2025-29)";
+    std::vector<std::string> code = {"C++", "Python", "TypeScript", "JavaScript"};
+    std::string focus     = "DSA + Web Development + IoT";
+    std::string building  = "AGRIFLOW - ESP32 smart irrigation system";
+    bool openToInternships = true;
+};
+```
 
-### Featured projects
+- 🔭 **Currently building:** AGRIFLOW — an ESP32-based smart irrigation & soil-monitoring system with my Engineering Clinics team
+- 🌱 **Currently learning:** Trees, Graphs & Dynamic Programming (DSA deep-dive in C++)
+- 🏆 **Certified:** Hedera Certified Foundation (HCF) · Hedera Certified Developer Associate (HCDA) — Hashgraph Association, 2026
+- 💬 **Ask me about:** C++, data structures, React front-ends, MediaPipe/OpenCV experiments
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karan-pradhan-510062396) · [Portfolio](https://karan07dev.vercel.app/)
+
+## 🛠️ Tech I use
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,vite,tailwind,flask,supabase,arduino,git,github,vscode,vercel)
+
+</div>
+
+## 📌 Featured projects
 
 | Project | What it is |
 |---|---|
-| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My portfolio site — TypeScript, live at [karan07dev.vercel.app](https://karan07dev.vercel.app/) |
-| [DSA_CPP](https://github.com/Pradhan-07/DSA_CPP) | Data structures & algorithms in C++, topic-wise |
-| [leetcode_question_answer](https://github.com/Pradhan-07/leetcode_question_answer) | My LeetCode solutions in C++, with the questions |
-| [magic_hand](https://github.com/Pradhan-07/magic_hand) | Hand-gesture control experiments in Python |
-| [study_detection](https://github.com/Pradhan-07/study_detection) | Python vision experiment that detects study sessions |
+| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My personal portfolio — React, TypeScript & Vite. Live: [karan07dev.vercel.app](https://karan07dev.vercel.app/) |
+| [indstate](https://github.com/Pradhan-07/indstate) | Property marketplace — React, Supabase & Leaflet maps, live listings and filters |
+| [study_detection](https://github.com/Pradhan-07/study_detection) | Computer-vision study monitor — OpenCV face-mesh + YOLO detects sleep, face-covering & phone use |
+| [DSA_CPP](https://github.com/Pradhan-07/DSA_CPP) | Topic-wise C++ DSA library — arrays, sorting, recursion, OOP, linked lists (69+ programs) |
+| [Resolutions_Tracker](https://github.com/Pradhan-07/Resolutions_Tracker) | Gamified goal tracker — Flask + SQLite, daily check-ins, streaks, XP & levels |
+| [leetcode_question_answer](https://github.com/Pradhan-07/leetcode_question_answer) | My LeetCode solutions in C++, organised by problem & topic |
 
-### GitHub stats
+## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark" alt="Karan's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradhan-07&theme=github-dark" alt="Karan's GitHub streak" />
-</p>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark" alt="Top languages" />
-  <a href="https://leetcode.com/u/pradhan_07/"><img height="165" src="https://leetcard.jacoblin.cool/pradhan_07?theme=dark&ext=heatmap" alt="LeetCode stats" /></a>
-</p>
+<div align="center">
 
-### Find me
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pradhan--07-181717?style=flat&logo=github)](https://github.com/Pradhan-07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-pradhan__07-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/pradhan_07/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan_Kumar_Pradhan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/karan-pradhan-510062396/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-karan07dev.vercel.app-000000?style=flat&logo=vercel)](https://karan07dev.vercel.app/)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradhan-07&theme=github-dark-blue&hide_border=true)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradhan-07&theme=github-compact&hide_border=true)
+
+</div>
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/pradhan_07?theme=dark&ext=heatmap)](https://leetcode.com/u/pradhan_07/)
+
+</div>
+
+Solving in **C++** — 29 problems so far (Easy 12 · Medium 15 · Hard 2), currently on a DSA consistency run.
+
+## 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradhan-07/Pradhan-07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradhan-07/Pradhan-07/output/github-snake.svg" />
+  <img alt="Snake eating Karan's contribution graph" src="https://raw.githubusercontent.com/Pradhan-07/Pradhan-07/output/github-snake.svg" />
+</picture>
+
+## 🔗 Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-karan07dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan07dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-pradhan-510062396)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pradhan__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pradhan_07/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pradhan--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradhan-07)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="" />
