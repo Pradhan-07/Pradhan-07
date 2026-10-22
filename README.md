@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=560&height=45&center=true&vCenter=true&lines=B.Tech%20CSE%20%40%20VIT-AP;DSA%20in%20C%2B%2B%20%E2%80%A2%20Web%20Developer;Building%20AGRIFLOW%20%E2%80%94%20IoT%20Smart%20Irrigation;Open%20to%20internships%20%26%20collaborations)](https://github.com/Pradhan-07)
 
-![Profile views](https://komarev.com/ghpvc/?username=Pradhan-07&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Pradhan-07?label=Follow&style=social)](https://github.com/Pradhan-07?tab=followers)
 
 </div>
@@ -55,8 +54,6 @@ struct Karan {
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradhan-07&theme=github-dark-blue&hide_border=true)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradhan-07&theme=github-compact&hide_border=true)
 
 </div>
 
