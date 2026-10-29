@@ -89,7 +89,6 @@ struct Karan {
 
 </div>
 
-Solving in **C++** — 29 problems so far (Easy 12 · Medium 15 · Hard 2), currently on a DSA consistency run.
 
 ## 🐍 Watch the snake eat my contributions
 
