@@ -27,7 +27,7 @@ struct Karan {
 - 🌱 **Currently learning:** Trees, Graphs & Dynamic Programming (DSA deep-dive in C++)
 - 🏆 **Certified:** Hedera Certified Foundation (HCF) · Hedera Certified Developer Associate (HCDA) — Hashgraph Association, 2026
 - 💬 **Ask me about:** C++, data structures, React front-ends, MediaPipe/OpenCV experiments
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karan-pradhan-510062396) · [Portfolio](https://karan-07.vercel.app/)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karan-pradhan-510062396) · [Portfolio](https://pradhan.runs-on.dev/)
 
 ## 🛠️ Tech I use
 
@@ -41,7 +41,7 @@ struct Karan {
 
 | Project | What it is |
 |---|---|
-| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My personal portfolio — React, TypeScript & Vite. Live: [karan-07.vercel.app](https://karan-07.vercel.app/) |
+| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My personal portfolio — React, TypeScript & Vite. Live: [pradhan.runs-on.dev](https://pradhan.runs-on.dev/) |
 | [indstate](https://github.com/Pradhan-07/indstate) | Property marketplace — React, Supabase & Leaflet maps, live listings and filters |
 | [study_detection](https://github.com/Pradhan-07/study_detection) | Computer-vision study monitor — OpenCV face-mesh + YOLO detects sleep, face-covering & phone use |
 | [DSA_CPP](https://github.com/Pradhan-07/DSA_CPP) | Topic-wise C++ DSA library — arrays, sorting, recursion, OOP, linked lists (69+ programs) |
@@ -100,7 +100,7 @@ struct Karan {
 
 ## 🔗 Find me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-karan--07.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-07.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pradhan.runs--on.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pradhan.runs-on.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-pradhan-510062396)
 [![LeetCode](https://img.shields.io/badge/LeetCode-pradhan__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pradhan_07/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pradhan--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradhan-07)
