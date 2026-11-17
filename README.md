@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=560&height=45&center=true&vCenter=true&lines=B.Tech%20CSE%20%40%20VIT-AP;DSA%20in%20C%2B%2B%20%E2%80%A2%20Web%20Developer;Building%20AGRIFLOW%20%E2%80%94%20IoT%20Smart%20Irrigation;Open%20to%20internships%20%26%20collaborations)](https://github.com/Pradhan-07)
 
 [![GitHub followers](https://img.shields.io/github/followers/Pradhan-07?label=Follow&style=social)](https://github.com/Pradhan-07?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=Pradhan-07&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
@@ -26,7 +25,6 @@ struct Karan {
 
 - 🔭 **Currently building:** AGRIFLOW — an ESP32-based smart irrigation & soil-monitoring system with my Engineering Clinics team
 - 🌱 **Currently learning:** Trees, Graphs & Dynamic Programming (DSA deep-dive in C++)
-- 🎓 **Winter 2026-27 @ VIT-AP:** DBMS · Operating Systems · Blockchain · Probability & Statistics · Software Engineering
 - 🏆 **Certified:** Hedera Certified Foundation (HCF) · Hedera Certified Developer Associate (HCDA) — Hashgraph Association, 2026
 - 💬 **Ask me about:** C++, data structures, React front-ends, MediaPipe/OpenCV experiments
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karan-pradhan-510062396) · [Portfolio](https://pradhan.runs-on.dev/)
@@ -39,31 +37,16 @@ struct Karan {
 
 </div>
 
-| Area | Stack |
-|---|---|
-| **Languages** | C++ · Python · TypeScript · JavaScript |
-| **Web** | React · Next.js · Vite · Tailwind CSS · HTML/CSS |
-| **Backend & Data** | Flask · Supabase · SQLite |
-| **Tools & Platforms** | Git & GitHub · VS Code · Vercel · Arduino / ESP32 |
-
 ## 📌 Featured projects
 
 | Project | What it is |
 |---|---|
-| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My personal portfolio — Next.js, React, TypeScript & Tailwind CSS. Live: [pradhan.runs-on.dev](https://pradhan.runs-on.dev/) |
+| [PORTFOLIO](https://github.com/Pradhan-07/PORTFOLIO) | My personal portfolio — React, TypeScript & Vite. Live: [pradhan.runs-on.dev](https://pradhan.runs-on.dev/) |
 | [indstate](https://github.com/Pradhan-07/indstate) | Property marketplace — React, Supabase & Leaflet maps, live listings and filters |
 | [study_detection](https://github.com/Pradhan-07/study_detection) | Computer-vision study monitor — OpenCV face-mesh + YOLO detects sleep, face-covering & phone use |
 | [DSA_CPP](https://github.com/Pradhan-07/DSA_CPP) | Topic-wise C++ DSA library — arrays, sorting, recursion, OOP, linked lists (69+ programs) |
 | [Resolutions_Tracker](https://github.com/Pradhan-07/Resolutions_Tracker) | Gamified goal tracker — Flask + SQLite, daily check-ins, streaks, XP & levels |
-| [leetcode_question_answer](https://github.com/Pradhan-07/leetcode_question_answer) | My LeetCode solutions in C++ — 37 problems (22 Easy · 13 Medium · 2 Hard), organised by problem & topic |
-
-## 🧪 Fun experiments
-
-| Project | What it is |
-|---|---|
-| [magic_hand](https://github.com/Pradhan-07/magic_hand) | Gesture-controlled air canvas — draw in mid-air with your webcam, sketches become 3D shapes (MediaPipe) |
-| [flowerglow](https://github.com/Pradhan-07/flowerglow) | A glowing tulip you control with hand gestures — pinch to bloom & grow, sway for wind (MediaPipe Hands + Canvas) |
-| [meme_gesture](https://github.com/Pradhan-07/meme_gesture) | Live meme overlays triggered by your face & hand gestures — OpenCV + MediaPipe Face Mesh |
+| [leetcode_question_answer](https://github.com/Pradhan-07/leetcode_question_answer) | My LeetCode solutions in C++, organised by problem & topic |
 
 <details>
 <summary><b>📖 My journey so far — click to open</b></summary>
@@ -83,12 +66,10 @@ struct Karan {
 
 <div align="center">
 
-![Karan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark&count_private=true&cache_seconds=21600)
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradhan-07&show_icons=true&theme=github_dark&count_private=true&cache_seconds=21600)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan-07&layout=compact&theme=github_dark)
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Pradhan-07&theme=github-dark-blue&hide_border=true)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradhan-07&theme=github-dark&hide_border=true)](https://github.com/Pradhan-07)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradhan-07&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -116,12 +97,6 @@ struct Karan {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradhan-07/Pradhan-07/output/github-snake.svg" />
   <img alt="Snake eating Karan's contribution graph" src="https://raw.githubusercontent.com/Pradhan-07/Pradhan-07/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-
-![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
 
 ## 🔗 Find me
 
