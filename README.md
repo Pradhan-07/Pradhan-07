@@ -48,6 +48,14 @@ struct Karan {
 | [Resolutions_Tracker](https://github.com/Pradhan-07/Resolutions_Tracker) | Gamified goal tracker — Flask + SQLite, daily check-ins, streaks, XP & levels |
 | [leetcode_question_answer](https://github.com/Pradhan-07/leetcode_question_answer) | My LeetCode solutions in C++, organised by problem & topic |
 
+## 🧪 Fun experiments
+
+| Project | What it is |
+|---|---|
+| [magic_hand](https://github.com/Pradhan-07/magic_hand) | Gesture-controlled air canvas — draw in mid-air with your webcam, sketches become 3D shapes (MediaPipe) |
+| [flowerglow](https://github.com/Pradhan-07/flowerglow) | A glowing tulip you control with hand gestures — pinch to bloom & grow, sway for wind (MediaPipe Hands + Canvas) |
+| [meme_gesture](https://github.com/Pradhan-07/meme_gesture) | Live meme overlays triggered by your face & hand gestures — OpenCV + MediaPipe Face Mesh |
+
 <details>
 <summary><b>📖 My journey so far — click to open</b></summary>
 
