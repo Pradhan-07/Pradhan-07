@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=560&height=45&center=true&vCenter=true&lines=B.Tech%20CSE%20%40%20VIT-AP;DSA%20in%20C%2B%2B%20%E2%80%A2%20Web%20Developer;Building%20AGRIFLOW%20%E2%80%94%20IoT%20Smart%20Irrigation;Open%20to%20internships%20%26%20collaborations)](https://github.com/Pradhan-07)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=560&height=45&center=true&vCenter=true&lines=B.Tech%20CSE%20%40%20VIT-AP;DSA%20in%20C%2B%2B%20%E2%80%A2%20Web%20Developer;Open%20to%20internships%20%26%20collaborations)](https://github.com/Pradhan-07)
 
 [![GitHub followers](https://img.shields.io/github/followers/Pradhan-07?label=Follow&style=social)](https://github.com/Pradhan-07?tab=followers)
 
@@ -18,12 +18,10 @@ struct Karan {
     std::string degree    = "B.Tech, Computer Science (2025-29)";
     std::vector<std::string> code = {"C++", "Python", "TypeScript", "JavaScript"};
     std::string focus     = "DSA + Web Development + IoT";
-    std::string building  = "AGRIFLOW - ESP32 smart irrigation system";
     bool openToInternships = true;
 };
 ```
 
-- 🔭 **Currently building:** AGRIFLOW — an ESP32-based smart irrigation & soil-monitoring system with my Engineering Clinics team
 - 🌱 **Currently learning:** Trees, Graphs & Dynamic Programming (DSA deep-dive in C++)
 - 🏆 **Certified:** Hedera Certified Foundation (HCF) · Hedera Certified Developer Associate (HCDA) — Hashgraph Association, 2026
 - 💬 **Ask me about:** C++, data structures, React front-ends, MediaPipe/OpenCV experiments
@@ -66,7 +64,6 @@ struct Karan {
 - 🏅 **Jun 2026** — Earned the Hedera Certified Foundation (HCF) and Hedera Certified Developer Associate (HCDA) certifications from the Hashgraph Association.
 - 🧩 **Aug 2026** — Started my LeetCode journey (in C++, of course).
 - 🔥 **13 Sep – 3 Oct 2026** — A 21-day contribution streak with 58 contributions and no breaks. September 2026 alone added up to 84 contributions.
-- 🌱 **Oct 2026** — Building AGRIFLOW, an ESP32-based smart-irrigation system, with my 6-member Engineering Clinics team at VIT-AP.
 
 </details>
 
